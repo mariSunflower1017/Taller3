@@ -47,40 +47,6 @@ El menú se ejecuta de forma **infinita**, permitiendo al usuario elegir distint
 
 ---
 
-## 📂 Estructura del proyecto
-
-```
-ProyectoMenuJava/
-│
-├── src/
-│   └── MenuPrograma.java
-│
-├── Evidencias/
-│   └── (Capturas o pruebas del programa)
-│
-└── README.md
-```
-
----
-
-## ▶️ Cómo ejecutar el programa
-
-1. Instalar **Java JDK** en el computador.
-2. Abrir una terminal en la carpeta del proyecto.
-3. Compilar el programa:
-
-```
-javac MenuPrograma.java
-```
-
-4. Ejecutar el programa:
-
-```
-java MenuPrograma
-```
-
----
-
 ## ⚠️ Consideraciones
 
 * El programa debe **validar la entrada de datos** para evitar errores.
