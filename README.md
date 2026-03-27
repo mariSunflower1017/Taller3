@@ -54,6 +54,13 @@ El menú se ejecuta de forma **infinita**, permitiendo al usuario elegir distint
 * Es importante determinar la **restricción del número máximo** para algunos cálculos (como Fibonacci o números primos).
 
 ---
+---
+
+## DIAPOSITIVAS
+
+https://www.canva.com/design/DAHFGrjBbcQ/FlYuSjbZSNk-jquc3gzD1w/editutm_content=DAHFGrjBbcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+---
 
 ## 📚 Referencias
 
