@@ -42,3 +42,10 @@ System.out.println("                    ),-----.(      ),-----.(");
 System.out.println("                  ,'   ==.   \\    /  .==    `.");
 System.out.println("                 /            )  (            \\");
 System.out.println("                 `==========='    `===========' ");
+
+            try {
+            opcion = sc.nextInt();
+            } catch (Exception e) {
+                System.out.println("ERROR: debes ingresar un numero");
+                sc.nextLine();
+                opcion = 0;
