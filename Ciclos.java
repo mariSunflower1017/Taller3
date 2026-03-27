@@ -93,3 +93,13 @@ System.out.println("                 `==========='    `===========' ");
 
                 System.out.println("Ingrese el valor de c:");
                 c = sc.nextDouble();
+
+                temp = b * b - 4 * a * c;
+                System.out.println("Discriminante = " + temp);
+                if (temp>=0) {
+                    if (2*a != 0) {
+                        x1 = (-b - Math.sqrt(temp)) / (2 * a);
+                        x2 = (-b + Math.sqrt(temp)) / (2 * a);
+                        System.out.println("Las raices son:");
+                        System.out.println("x1: "+x1);
+                        System.out.println("x2: "+x2);
