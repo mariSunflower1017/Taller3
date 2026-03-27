@@ -81,3 +81,15 @@ System.out.println("                 `==========='    `===========' ");
                     System.out.println("El numero "+n+" Es primo");
                 }
             }
+
+            else if (opcion == 4) {
+
+                double a, b, c, temp, x1, x2;
+                System.out.println("Ingrese el valor de a:");
+                a = sc.nextDouble();
+
+                System.out.println("Ingrese el valor de b:");
+                b = sc.nextDouble();
+
+                System.out.println("Ingrese el valor de c:");
+                c = sc.nextDouble();
