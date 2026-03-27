@@ -62,3 +62,22 @@ System.out.println("                 `==========='    `===========' ");
                 } while (--n>0);
                 
             }
+
+            else if (opcion == 3) {
+                
+                int divisores = 2, cont = 2, n = 19;
+
+                while (cont < n) {
+                    if (n % cont == 0) {
+                        divisores++;
+                        break;
+                    }
+                    cont++;
+                }
+                if (divisores>2) {
+                    System.out.println("El numero "+n+" NO es primo");
+                }
+                else {
+                    System.out.println("El numero "+n+" Es primo");
+                }
+            }
