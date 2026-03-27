@@ -127,3 +127,10 @@ System.out.println("                 `==========='    `===========' ");
                 System.out.println("El promedio es: "+promedio);
                 
             }
+        else if (opcion !=1) {
+            System.out.println("ERROR: opcion invalida");
+        }
+    }
+    sc.close();
+}
+}
