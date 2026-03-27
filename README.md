@@ -58,7 +58,7 @@ El menú se ejecuta de forma **infinita**, permitiendo al usuario elegir distint
 
 ## DIAPOSITIVAS
 
-https://www.canva.com/design/DAHFGrjBbcQ/FlYuSjbZSNk-jquc3gzD1w/editutm_content=DAHFGrjBbcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAHFGrjBbcQ/FlYuSjbZSNk-jquc3gzD1w/edit?utm_content=DAHFGrjBbcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
