@@ -112,3 +112,18 @@ System.out.println("                 `==========='    `===========' ");
                     System.out.println("Error raíz negativa");
                 }
             }
+
+            else if (opcion == 5) {
+                int n = 5, cont = 0;
+                double num, suma = 0, promedio;
+
+                while (cont < n) {
+                    System.out.println("Ingrse el numero ");
+                    num = sc.nextDouble();
+                    suma += num;
+                    cont++;
+                }
+                promedio = suma / n;
+                System.out.println("El promedio es: "+promedio);
+                
+            }
