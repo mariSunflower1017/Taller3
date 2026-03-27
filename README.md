@@ -21,7 +21,7 @@ El programa solicita datos al usuario, realiza los cálculos correspondientes y 
 ## 👩‍💻 Integrantes
 
 * Mariana Parra Londoño
-* Andreina Garro Rodríguez
+* Luis Leonardo
 
 ---
 
