@@ -103,3 +103,12 @@ System.out.println("                 `==========='    `===========' ");
                         System.out.println("Las raices son:");
                         System.out.println("x1: "+x1);
                         System.out.println("x2: "+x2);
+                    }
+                    else{
+                        System.out.println("Error division por cero");
+                    }
+                }
+                else {
+                    System.out.println("Error raíz negativa");
+                }
+            }
