@@ -49,3 +49,16 @@ System.out.println("                 `==========='    `===========' ");
                 System.out.println("ERROR: debes ingresar un numero");
                 sc.nextLine();
                 opcion = 0;
+
+            if (opcion == 2) {
+
+                int d = 0, e= 1, f = 0, n = 7;
+
+                do {
+                    System.out.println(d);
+                    f = d + e;
+                    d = e;
+                    e = f;
+                } while (--n>0);
+                
+            }
