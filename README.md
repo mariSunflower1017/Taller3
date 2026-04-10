@@ -1,27 +1,32 @@
-# Taller_3
-# 💻 Programa con Menú Infinito en Java
+# Taller_Banderas_Java
+
+# 💻 Proyecto de Banderas y Matrices en Java
 
 ## 📌 Descripción
 
-Este proyecto consiste en desarrollar un programa en **Java** que implemente un **menú infinito** en consola, permitiendo al usuario seleccionar diferentes operaciones matemáticas.
+Este proyecto consiste en el desarrollo de diferentes ejercicios en **Java** enfocados en el uso de **matrices, caracteres, ciclos y salida en consola**.  
 
-El programa solicita datos al usuario, realiza los cálculos correspondientes y muestra los resultados en pantalla. Además, se deben validar correctamente los datos ingresados para evitar errores.
+A lo largo del taller se trabajan ejercicios prácticos como la impresión de **banderas en consola**, el uso de **colores en texto**, la creación de **matrices de caracteres de tamaño n x m**, y la simulación de un **fixture con tabla de posiciones**.
+
+El objetivo principal es fortalecer la lógica de programación, el manejo de estructuras bidimensionales y la visualización de resultados en consola.
 
 ---
 
 ## 🎯 Objetivos del proyecto
 
-* Implementar un **menú interactivo en consola**.
-* Utilizar **estructuras de control** como ciclos y condicionales.
-* Aplicar **validación de datos ingresados por el usuario**.
-* Resolver diferentes **problemas matemáticos básicos mediante programación**.
+* Implementar ejercicios usando **matrices de caracteres**.
+* Representar **banderas en consola con texto y colores**.
+* Aplicar **ciclos anidados** para escalado de figuras.
+* Desarrollar un **fixture deportivo** con tabla de posiciones.
+* Mejorar la lógica en problemas de representación visual en consola.
 
 ---
 
 ## 👩‍💻 Integrantes
 
-* Mariana Parra Londoño
-* Luis Leonardo
+* Emanuel Tamayo
+* Mariana Parra
+* Julian Caballero
 
 ---
 
@@ -34,31 +39,27 @@ El programa solicita datos al usuario, realiza los cálculos correspondientes y 
 
 ---
 
-## 📋 Funcionalidades del programa
+## 📋 Funcionalidades del proyecto
 
-El menú permite realizar las siguientes operaciones:
+El proyecto incluye los siguientes ejercicios:
 
-1. **Suma de los primeros n números de Fibonacci**
-2. **Encontrar el n-ésimo número primo**
-3. **Calcular las raíces de una ecuación cuadrática**
-4. **Calcular el promedio de n números**
-
-El menú se ejecuta de forma **infinita**, permitiendo al usuario elegir distintas opciones hasta que decida salir del programa.
+1. **Imprimir una bandera en consola**
+2. **Escalar una bandera en consola**
+3. **Imprimir colores en la consola de Java**
+4. **Crear una matriz de caracteres n x m**
+5. **Crear un fixture**
+6. **Generar código para tabla de posiciones**
+7. **Representación visual de banderas usando matrices**
 
 ---
 
 ## ⚠️ Consideraciones
 
-* El programa debe **validar la entrada de datos** para evitar errores.
-* Debe manejar **posibles excepciones** si el usuario ingresa datos incorrectos.
-* Es importante determinar la **restricción del número máximo** para algunos cálculos (como Fibonacci o números primos).
-
----
----
-
-## DIAPOSITIVAS
-
-https://www.canva.com/design/DAHFGrjBbcQ/FlYuSjbZSNk-jquc3gzD1w/edit?utm_content=DAHFGrjBbcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* Se utilizan **ciclos `for` anidados** para construir las figuras.
+* Es importante validar las dimensiones de la **matriz n x m**.
+* Los colores en consola pueden variar según la terminal utilizada.
+* La tabla de posiciones debe organizar correctamente **puntos, goles y equipos**.
+* El escalado de banderas debe conservar la proporción visual.
 
 ---
 
